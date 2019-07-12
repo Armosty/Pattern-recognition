@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>Images/Лб_1_001.jpg</file>
+        <file>Images/Лб_1_002.jpg</file>
+        <file>Images/Лб_1_003.jpg</file>
+        <file>Images/Лб_1_004.jpg</file>
+        <file>Images/Лб_1_005.jpg</file>
+        <file>Images/Лб_1_006.jpg</file>
+        <file>Images/Лб_1_007.jpg</file>
+        <file>Images/Лб_1_008.jpg</file>
+        <file>Images/Лб_1_009.jpg</file>
+        <file>Images/Лб_1_010.jpg</file>
+        <file>Images/Лб_1_011.jpg</file>
+        <file>Images/Лб_1_012.jpg</file>
+        <file>Images/Лб_1_013.jpg</file>
+        <file>Images/Лб_1_014.jpg</file>
+        <file>Images/Лб_1_015.jpg</file>
+        <file>Images/Лб_1_016.jpg</file>
+        <file>Images/Лб_1_017.jpg</file>
+        <file>Images/Лб_1_018.jpg</file>
+        <file>Images/Лб_1_019.jpg</file>
+        <file>Images/Лб_1_020.jpg</file>
+        <file>Images/Лб_1_021.jpg</file>
+        <file>Images/Лб_1_022.jpg</file>
+        <file>Images/Лб_1_023.jpg</file>
+        <file>Images/Лб_1_024.jpg</file>
+        <file>Images/Лб_1_025.jpg</file>
+        <file>Images/Лб_1_026.jpg</file>
+        <file>Images/Лб_1_027.jpg</file>
+        <file>Images/Лб_1_028.jpg</file>
+        <file>Images/Лб_1_029.jpg</file>
+        <file>Images/Лб_1_030.jpg</file>
+        <file>Images/Лб_1_031.jpg</file>
+        <file>Images/Лб_1_032.jpg</file>
+    </qresource>
+</RCC>
